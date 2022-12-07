@@ -1,0 +1,15 @@
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/bin/Debug/net6.0/Example001
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/bin/Debug/net6.0/Example001.deps.json
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/bin/Debug/net6.0/Example001.runtimeconfig.json
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/bin/Debug/net6.0/Example001.dll
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/bin/Debug/net6.0/ref/Example001.dll
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/bin/Debug/net6.0/Example001.pdb
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.csproj.AssemblyReference.cache
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.AssemblyInfoInputs.cache
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.AssemblyInfo.cs
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.csproj.CoreCompileInputs.cache
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.dll
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/ref/Example001.dll
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.pdb
+/Users/denis.efimtsev/Desktop/Ефимцев/06-GEEK BRAINS/1 год/03-C#/Examples/Example001/obj/Debug/net6.0/Example001.genruntimeconfig.cache
